@@ -1,0 +1,9 @@
+const GETKINDS = 'GETKINDS'
+const USERSTATUS = 'USERSTATUS'
+const USERDATA = 'USERDATA'
+
+export {
+    GETKINDS,
+    USERSTATUS,
+    USERDATA
+}
